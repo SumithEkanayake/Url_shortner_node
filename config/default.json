@@ -1,0 +1,4 @@
+{
+    "mongoURI" : "mongodb+srv://sumith:kck4ever@cluster0.1tvdy.mongodb.net/Cluster0?retryWrites=true&w=majority",
+    "baseUrl": "http://localhost:5000"
+}
